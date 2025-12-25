@@ -53,11 +53,13 @@ AI-News-Agent/
 ### 1️⃣ Clone the repository
 
 git clone https://github.com/Kasyap18/AI-News-Agent.git
+
 cd AI-News-Agent
 
 ### 2️⃣ Create and activate a virtual environment
 
 python -m venv venv
+
 venv\Scripts\activate
 
 ### 3️⃣ Install dependencies
@@ -67,7 +69,9 @@ pip install -r requirements.txt
 ### 4️⃣ Configure environment variables
 
 Create a .env file in the project root:
+
 env
+
 GOOGLE_API_KEY=your_api_key_here
 
 ---
