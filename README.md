@@ -9,15 +9,15 @@ This project demonstrates how **AI agents can collaborate** to research topics, 
 ## 🚀 Features
 
 - 🔍 **AI News Research Agent**
-  - Gathers and analyzes news-related information on a given topic
+  Gathers and analyzes news-related information on a given topic
 - ✍️ **AI News Writing Agent**
-  - Converts research output into clear, readable news articles
+  Converts research output into clear, readable news articles
 - 🤝 **Multi-Agent Workflow**
-  - Separate agents for research and content generation
+  Separate agents for research and content generation
 - ⚙️ **Modular Design**
-  - Easy to extend with new agents or tools
+  Easy to extend with new agents or tools
 - 🧠 **Generative AI Powered**
-  - Uses Google Gemini for intelligent reasoning and writing
+  Uses Google Gemini for intelligent reasoning and writing
 
 ---
 
