@@ -23,16 +23,27 @@ This project demonstrates how **AI agents can collaborate** to research topics, 
 
 ## 🏗️ Architecture 
 AI-News-Agent/
+
 │
+
 ├── crewgooglegemini/
+
 │   ├── agents.py        # Defines AI agents
+
 │   ├── tasks.py         # Research & writing tasks
+
 │   ├── tools.py         # Agent tools
+
 │   ├── crew.py          # Main execution file
+
 │
+
 ├── requirements.txt     # Project dependencies
+
 ├── .gitignore           # Ignored files
+
 ├── Notes.txt            # Development notes
+
 └── README.md            # Project documentation
 
 ---
